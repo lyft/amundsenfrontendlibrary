@@ -1,10 +1,13 @@
 ### Feature
+* Add Redash Preview Client ([#974](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/974)) ([`028d4dc`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/028d4dcf94e8846a2e51de2ada6259dba5e07031))
+* Add analytics events to lineage features and cleanup ([#972](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/972)) ([`959ffa9`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/959ffa9e54097dffb195aee2b5108da052871ad7))
 * Table and Column Lineage Polish ([#970](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/970)) ([`cd2f4c4`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/cd2f4c438007acff26fc335950a6bc03c89d63eb))
 * Table and Column Lineage Lists ([#969](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/969)) ([`df9532a`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/df9532a89fa09f6cfe1059f4d6a300c54f277020))
 * Add Table Notices ([#957](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/957)) ([`e3be638`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/e3be638df25cd74f41e191bd3eb87c544bf0876b))
 * Allows for splitting stats' distinct values into a different element that shows in modal ([#960](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/960)) ([`fe04a06`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/fe04a066c71402fd0e40e41fbbaca5f203ac6b54))
 
 ### Fix
+* Display watermarks for all tables when available ([#971](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/971)) ([`73eff8a`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/73eff8a7210c2fd176c68a0ef26eb3057852ca6b))
 * Upgrade mypy version to build with Python3.8 ([#975](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/975)) ([`18963ec`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/18963ec8f06883ecb405521694f543f9627f8ed8))
 * Handles parsing errors when format not expected on distinct values ([#966](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/966)) ([`473bbdb`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/473bbdb95c5dd25625bcadc04171dfe19aacd328))
 * Made commit author consistent ([#917](https://github.com/amundsen-io/amundsenfrontendlibrary/issues/917)) ([`48441cd`](https://github.com/amundsen-io/amundsenfrontendlibrary/commit/48441cd3c073c7a68145fa329ea35ad125707d4d))
